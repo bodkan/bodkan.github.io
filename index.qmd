@@ -16,5 +16,6 @@ about:
 
 ---
 
-I am a researcher and programmer at the University of Copenhagen, Denmark.<br>
-I work on spatial data analysis and simulation software for population genetics and ecology.
+I am a programmer and geneticist at the University of Copenhagen, Denmark.<br><br>
+I work on spatial data analysis and simulation software for population genetics and ecology,<br>
+with an eye towards designing intuitive, efficient interfaces to complex computational methods.
