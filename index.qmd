@@ -3,7 +3,7 @@ title: "Martin Petr"
 about:
   template: jolla
   image: profile.png
-  image-width: 15em
+  image-width: 12em
   links:
     - text: GitHub
       url: https://github.com/bodkan
@@ -16,5 +16,5 @@ about:
 
 ---
 
-I am a programmer and researcher at the University of Copenhagen, Denmark,<br>
-where I develop tools for spatial data analysis in population genetics and ecology.
+I am a programmer and researcher at the University of Copenhagen, Denmark.<br>
+I work on tools for spatial data analysis in population genetics and ecology.
