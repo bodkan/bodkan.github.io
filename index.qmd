@@ -16,9 +16,9 @@ about:
 
 ---
 
-I am a programmer and geneticist at the University of Copenhagen, Denmark.
+I am a research programmer and geneticist at the University of Copenhagen, Denmark.
 
 I work on spatial data analysis and simulation software for population genetics and ecology,<br>
 with an eye towards designing intuitive interfaces for complex computational methods.
 
-Previously, I worked on ancient DNA of Neanderthals, Denisovans, and early modern humans.
+Previously, I worked on ancient DNA of Neanderthals and Denisovans.
