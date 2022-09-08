@@ -16,8 +16,8 @@ about:
 
 ---
 
-I am a researcher at the University of Copenhagen, Denmark.
+I am a researcher and programmer at the University of Copenhagen, Denmark.
 
-I work on methods for spatial data analysis and simulation, with the aim to answer new kinds of questions about the evolutionary history of humans and other species across space and time.
+I develop new tools for spatial data analysis and simulation in population genetics, hoping to push our knowledge about the evolutionary history of humans and other species across space and time.
 
-I also teach and mentor students. An important underlying theme of my work is the design of intuitive computational interfaces for both novice researchers and experts alike.
+I also teach and mentor students, which is why I enjoy designing intuitive, easy to use, and more reproducible interfaces to complex computational methods useful for both research and teaching.
