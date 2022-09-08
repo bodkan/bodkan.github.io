@@ -14,7 +14,7 @@ about:
     - text: Twitter
       url: https://twitter.com/dr_bodkan
     - text: LinkedIn 
-      url: www.linkedin.com/in/martin-petr-672269240
+      url: https://www.linkedin.com/in/martin-petr-672269240
 
 ---
 
