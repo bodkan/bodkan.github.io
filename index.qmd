@@ -20,4 +20,4 @@ I am a researcher and programmer at the University of Copenhagen, Denmark.
 
 I develop new tools for spatial data analysis and simulation in population genetics, hoping to push our knowledge about the evolutionary history of humans and other species across space and time.
 
-I also teach and mentor students, which is why I enjoy designing intuitive, easy to use, and more reproducible interfaces to complex computational methods useful for both research and teaching.
+I also teach and mentor students. A huge underlying theme of my work is the design of intuitive, reproducible interfaces to complex computational methods useful for both research and teaching.
