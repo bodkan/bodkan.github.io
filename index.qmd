@@ -20,6 +20,6 @@ about:
 
 I am a researcher at the University of Copenhagen, Denmark.
 
-I develop methods for spatial data analysis and simulation in population genetics, with the aim to uncover insights into the evolutionary histories of humans and other species across space and time.
+I develop methods for spatial data analysis and simulation in genetics and ecology which will unlock new insights into the evolutionary histories of humans and other species across space and time.
 
 I also teach and mentor students. An important underlying theme of my work is the design of intuitive interfaces to complex computational methods useful for novice users and experts alike.
