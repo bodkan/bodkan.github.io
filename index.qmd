@@ -12,7 +12,7 @@ about:
     - text: Email
       url: "mailto:contact@bodkan.net"
     - text: Twitter
-      url: https://twitter.com/dr_bodkan
+      url: https://twitter.com/fleventy5
 
 ---
 
