@@ -11,6 +11,8 @@ about:
       url: https://scholar.google.cz/citations?user=h9-xAdAAAAAJ
     - text: Email
       url: "mailto:contact@bodkan.net"
+    - text: Mastodon
+      url: https://fosstodon.org/@bodkan
     - text: Twitter
       url: https://twitter.com/fleventy5
 
