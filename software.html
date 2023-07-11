@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Martin Petr</title>
+<title>Martin Petr - My software</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -79,11 +80,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./software.html">
+    <a class="nav-link active" href="./software.html" aria-current="page">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
@@ -100,42 +101,75 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#admixr" id="toc-admixr" class="nav-link active" data-scroll-target="#admixr"><em>admixr</em></a></li>
+  <li><a href="#slendr" id="toc-slendr" class="nav-link" data-scroll-target="#slendr"><em>slendr</em></a></li>
+  <li><a href="#demografr" id="toc-demografr" class="nav-link" data-scroll-target="#demografr"><em>demografr</em></a></li>
+  <li><a href="#other-software" id="toc-other-software" class="nav-link" data-scroll-target="#other-software">other software</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="profile.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Martin Petr</h1>
+<h1 class="title">My software</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>I am a researcher at the University of Copenhagen, Denmark.</p>
-<p>I work on methods for spatial analysis and simulation in genetics and ecology, aimed at unlocking new insights into the evolutionary histories of species across space and time.</p>
-<p>I also enjoy teaching and mentoring. My big focus is on designing intuitive interfaces to complex computational methods useful for both novice and expert users alike.</p>
-<p><a rel="me" href="https://fosstodon.org/@bodkan"></a></p>
+  
+
+</header>
+
+<p>As a PhD student in ancient DNA genomics, I became really interested in designing and thinking about intuitive programming interfaces to complex computational methods. In particular, it became clear to me that a well-designed, easy-to-use research software will make it easy for novel researchers to get started, easy for experts to push the boundaries of what is possible by eliminating friction wherever possible, all while facilitating reproducibility in the process. The less friction in integration of various component of research pipelines, the better.</p>
+<p>As part of this interest, I adopted the R programming language both as my main tool of research and the means to explore these ideas and put them into practice. As a result of this work, I published the following R packages so far:</p>
+<section id="admixr" class="level2">
+<h2 class="anchored" data-anchor-id="admixr"><a href="https://bodkan.net/admixr"><em>admixr</em></a></h2>
+<p><em>admixr</em> was the first software I’ve published. I originally built it because I needed to run a huge number of statistical analyses using the <em>ADMIXTOOLS</em> software suite—a powerful set of programs, but quite cumbersome to use due to their reliance on pure unix terminal interfaces and ther need for setting up various configuration files to direct how analyses should be conducted. <em>admixr</em> solves this problem by providing a natural R interface for communication with <em>ADMIXTOOLS</em> programs in the background, automatically, from within R, and without any user intervention, and for presenting results in standard R data-frame objects.</p>
+<ul>
+<li>project website: <a href="https://bodkan.net/admixr">here</a></li>
+<li>GitHub link: <a href="https://github.com/bodkan/admixr">here</a></li>
+<li>publication (peer-reviewed): <a href="https://academic.oup.com/bioinformatics/article/35/17/3194/5298728">here</a></li>
+</ul>
+</section>
+<section id="slendr" class="level2">
+<h2 class="anchored" data-anchor-id="slendr"><a href="https://bodkan.net/slendr"><em>slendr</em></a></h2>
+<p>The <em>slendr</em> R package started as a collection of scripts to simulate complex spatio-temporal genomic data on real geographic landscapes created as means to simulate data sets for benchmarking and testing inference methods in spatial population genetics. However, it soon became something much more general—an efficient, simple-to-use R simulation framework for population genetic simulations in general (spatial and non-spatial, forward or coalescent).</p>
+<ul>
+<li>project website: <a href="https://slendr.net">here</a></li>
+<li>GitHub link: <a href="https://github.com/bodkan/slendr">here</a></li>
+<li>publication (peer-reviewed): <a href="https://evolbiol.peercommunityin.org/articles/rec?id=630">here</a></li>
+</ul>
+</section>
+<section id="demografr" class="level2">
+<h2 class="anchored" data-anchor-id="demografr"><a href="https://bodkan.net/demografr"><em>demografr</em></a></h2>
+<p>After I built <em>slendr</em>, I realized that I have arrived at an extremely useful tool not just for population genetic simulations but also for simulation-based inference. After all, with any method like an Approximate Bayesian Computation (ABC), the most challenging aspect is having to write custom-tailored code for simulation demographic histories and computing summary statistics, <em>for every single project</em>. <em>slendr</em> solves both of these issues by providing a trivially easy interface for simulation and genomic data analysis—which is where <em>demografr</em> steps in and builds an inference framework around <em>slendr</em>. <em>demografr</em> currently supports ABC and parameter grid-based inference, with additional inference techniques in the pipeline.</p>
+<ul>
+<li>project website: <a href="https://bodkan.net/demografr">here</a></li>
+<li>GitHub link: <a href="https://github.com/bodkan/demografr">here</a></li>
+<li>publication: <em>in progress!</em></li>
+</ul>
+</section>
+<section id="other-software" class="level2">
+<h2 class="anchored" data-anchor-id="other-software">other software</h2>
+<p>The software above are all tools that I actively support and maintain, are used in on-going projects, and are (or soon will be) described in formal research publications. Other pieces of software I wrote and work-in-progress projects can be found on my <a href="https://github.com/bodkan">GitHub</a> profile.</p>
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://github.com/bodkan" class="about-link">
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:contact@bodkan.net" class="about-link">
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://fosstodon.org/@bodkan" class="about-link">
-     <span class="about-link-text">Mastodon</span>
-  </a>
-  <a href="https://twitter.com/fleventy5" class="about-link">
-     <span class="about-link-text">Twitter</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -156,6 +190,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

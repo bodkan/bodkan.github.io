@@ -1,1 +1,1 @@
-Sitemap: https://www.bodkan.net/sitemap.xml
+Sitemap: https://bodkan.net/sitemap.xml
