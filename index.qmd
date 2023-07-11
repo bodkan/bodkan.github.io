@@ -7,19 +7,18 @@ about:
   links:
     - text: GitHub
       url: https://github.com/bodkan
-    - text: Research
-      url: https://scholar.google.cz/citations?user=h9-xAdAAAAAJ
     - text: Email
       url: "mailto:contact@bodkan.net"
     - text: Mastodon
       url: https://fosstodon.org/@bodkan
     - text: Twitter
       url: https://twitter.com/fleventy5
-
 ---
 
 I am a researcher at the University of Copenhagen, Denmark.
 
-I develop methods for spatial data analysis and simulation in genetics and ecology, hoping to unlock new insights into the evolutionary histories of humans and other species across space and time.
+I work on methods for spatial analysis and simulation in genetics and ecology, aimed at unlocking new insights into the evolutionary histories of species across space and time.
 
-I also teach and mentor students. An important underlying theme of my work is the design of intuitive interfaces to complex computational methods useful for novice users and experts alike.
+I also enjoy teaching and mentoring. My big focus is on designing intuitive interfaces to complex computational methods useful for both novice and expert users alike.
+
+<a rel="me" href="https://fosstodon.org/@bodkan"></a>

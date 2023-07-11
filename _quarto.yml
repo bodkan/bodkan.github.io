@@ -3,12 +3,22 @@ project:
 
 website:
   title: "Martin Petr"
-  site-url: https://www.bodkan.net
-  description: "Website and blog of Martin Petr."
+  site-url: https://bodkan.net
+  description: "Website and blog of Martin Petr"
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: software.qmd
+      text: Software
+    # - href: presentations.qmd
+    #   text: Presentations
+    - href: publications.qmd
+      text: Publications
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
     fontsize: 1.2em
