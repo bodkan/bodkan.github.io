@@ -1,5 +1,5 @@
 ---
-title: "My talks and presentations"
+title: "My papers"
 ---
 
 You can find an up-to-date list of scientific publications also on my [Google Scholar profile](https://scholar.google.com/citations?user=h9-xAdAAAAAJ). If you have trouble accessing the full-text versions of any of the articles below, please get in touch. I'm happy to share a PDF of every article I authored or co-authored.
@@ -51,7 +51,7 @@ Q Fu, C Posth, M Hajdinjak, <u>M Petr</u>, _et al._<br>
 **_Nature_** 534 (7606), 200-205<br>
 (2016)<br>
 
-## Popular articles
+## Outreach articles
 
 - **The Next Piece of Our Big Genetic Puzzle** [[link]](https://www.anthropology-news.org/articles/the-next-piece-of-our-big-genetic-puzzle/)<br>
 _<u>M Petr</u><br>
