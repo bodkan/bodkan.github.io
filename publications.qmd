@@ -2,7 +2,7 @@
 title: "My papers"
 ---
 
-You can find an up-to-date list of scientific publications also on my [Google Scholar profile](https://scholar.google.com/citations?user=h9-xAdAAAAAJ). If you have trouble accessing the full-text versions of any of the articles below, please get in touch. I'm happy to share a PDF of every article I authored or co-authored.
+You can find an up-to-date list of my research articles also on my [Google Scholar profile](https://scholar.google.com/citations?user=h9-xAdAAAAAJ). If you have trouble accessing the full-text version of any of the articles below, please [get in touch](mailto:contact@bodkan.net). I'm happy to share a PDF of any article I authored or co-authored.
 
 ## First-author publications
 
@@ -14,7 +14,7 @@ You can find an up-to-date list of scientific publications also on my [Google Sc
 <u>M Petr</u>, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur, P Semal, _et al._<br>
 **_Science_** 369 (6511), 1653-1656<br>(2020)<br>
 
-- **_admixr_&mdash;R package for reproducible analyses using ADMIXTOOLS** [[link]](https://academic.oup.com/bioinformatics/article-pdf/35/17/3194/29591934/btz030.pdf)<br>
+- **_admixr_&mdash;R package for reproducible analyses using ADMIXTOOLS** [[link]](https://academic.oup.com/bioinformatics/article/35/17/3194/5298728)<br>
 <u>M Petr</u>, B Vernot, J Kelso<br>
 **_Bioinformatics_** 35 (17), 3194-3195<br>
 (2019)<br>
