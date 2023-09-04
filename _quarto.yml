@@ -11,8 +11,8 @@ website:
       text: Home
     - href: software.qmd
       text: Software
-    # - href: presentations.qmd
-    #   text: Presentations
+    - href: talks.qmd
+      text: Talks
     - href: publications.qmd
       text: Publications
 
