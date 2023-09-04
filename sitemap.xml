@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bodkan.net/presentations.html</loc>
-    <lastmod>2023-09-04T08:21:10.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bodkan.net/publications.html</loc>
-    <lastmod>2023-09-04T08:21:09.694Z</lastmod>
+    <loc>https://bodkan.net/software.html</loc>
+    <lastmod>2023-09-04T08:45:26.651Z</lastmod>
   </url>
   <url>
     <loc>https://bodkan.net/index.html</loc>
-    <lastmod>2023-09-04T08:21:09.350Z</lastmod>
+    <lastmod>2023-09-04T08:45:25.989Z</lastmod>
   </url>
   <url>
-    <loc>https://bodkan.net/software.html</loc>
-    <lastmod>2023-09-04T08:21:10.021Z</lastmod>
+    <loc>https://bodkan.net/talks.html</loc>
+    <lastmod>2023-09-04T08:45:25.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bodkan.net/publications.html</loc>
+    <lastmod>2023-09-04T08:45:26.318Z</lastmod>
   </url>
 </urlset>
