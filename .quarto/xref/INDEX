@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "1c1af632"
+  },
+  "software.qmd": {
+    "software.html": "bababc95"
+  },
+  "talks.qmd": {
+    "talks.html": "88d4c5e1"
+  },
+  "presentations.qmd": {
+    "presentations.html": "8439a9a4"
+  },
+  "publications.md": {
+    "publications.html": "f2c7fdda"
+  },
+  "publications.qmd": {
+    "publications.html": "0b61e911"
+  }
+}
