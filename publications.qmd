@@ -6,9 +6,9 @@ You can find an up-to-date list of my research articles also on my [Google Schol
 
 ## First-author publications
 
-- **_slendr_: a framework for spatio-temporal population genomic simulations on geographic landscapes** [[link]](https://evolbiol.peercommunityin.org/articles/rec?id=630)<br>
+- **_slendr_: a framework for spatio-temporal population genomic simulations on geographic landscapes** [[link]](https://peercommunityjournal.org/articles/10.24072/pcjournal.354/)<br>
 <u>M Petr</u>, BC Haller, PL Ralph, F Racimo<br>
-**_PCI EvolBiol_**, 2022.03. 20.485041<br>(2023)<br>
+**_Peer Community Journal_**, Volume 3, article no. e121<br>(2023)<br>
 
 - **The evolutionary history of Neanderthal and Denisovan Y chromosomes** [[link]](https://www.science.org/doi/full/10.1126/science.abb6460)<br>
 <u>M Petr</u>, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur, P Semal, _et al._<br>
