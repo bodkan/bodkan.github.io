@@ -2,7 +2,7 @@
 title: "My talks and presentations"
 ---
 
-Here is a list of slides I used in my conference talks, invited lectures, university lectures, as well as other resources. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.
+Here is a list of slides I used in my conference talks, invited lectures, as well as other resources. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.
 
 **Note:** This page is a new addition to my website. I'm currently working through the archive of materials for my past talks and plan to upload them shortly.
 
@@ -10,11 +10,20 @@ Here is a list of slides I used in my conference talks, invited lectures, univer
 
 ## Invited talks
 
+### 2023
+
+#### **Charting ancient past through modern genomics**
+
+"_ISBA 2023_, Tartu, Estonia
+
+- [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2023-09-15 ISBA.pdf) (PDF)
+
+
 ### 2022
 
 #### **New stories of old DNA**
 
-"_Biological Thursdays_" seminar series (**in Czech**)
+"_Biological Thursdays_" seminar series, Charles University in Prague, Czech Republic (**in Czech**)
 
 - [Youtube](https://www.youtube.com/watch?v=B2jrgnjNqC0) (talk)
 - [Youtube](https://www.youtube.com/watch?v=7fCkHfcCDtc) (discussion)
@@ -36,8 +45,3 @@ Here is a list of slides I used in my conference talks, invited lectures, univer
 #### podcast interview
 
 - [Youtube](https://www.youtube.com/watch?v=Bq1RI3AbIso)
-
-
-## Popular articles
-
-- [The Next Piece of Our Big Genetic Puzzle](https://www.anthropology-news.org/articles/the-next-piece-of-our-big-genetic-puzzle/), _Anthropology News_ issue on Genetics (2021)
