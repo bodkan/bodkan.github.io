@@ -23,10 +23,10 @@ Here is a selection of slides I used in some of my conference talks or invited l
 
 #### **New stories of old DNA**
 
-"_Biological Thursdays_" seminar series, Charles University in Prague, Czech Republic (**in Czech**)
+"_Biological Thursdays_" seminar series, Charles University in Prague, Czech Republic
 
-- [Youtube](https://www.youtube.com/watch?v=B2jrgnjNqC0) (talk)
-- [Youtube](https://www.youtube.com/watch?v=7fCkHfcCDtc) (discussion)
+- [Youtube](https://www.youtube.com/watch?v=B2jrgnjNqC0) (talk,  **in Czech**)
+- [Youtube](https://www.youtube.com/watch?v=7fCkHfcCDtc) (discussion, **in Czech**)
 
 #### **_slendr_: a framework for simulation and analysis of spatio-temporal population genomic data**
 
@@ -39,7 +39,7 @@ Here is a selection of slides I used in some of my conference talks or invited l
 ### 2022
 
 
-## Conference presentations
+## Selected conference presentations
 
 
 ## Interviews and podcasts
