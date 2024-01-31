@@ -4,28 +4,28 @@
     "href": "software.html",
     "title": "My software",
     "section": "",
-    "text": "As a PhD student in ancient DNA genomics, I became really interested in designing and thinking about intuitive programming interfaces to complex computational methods. In particular, it became clear to me that a well-designed, easy-to-use research software will make it easy for novel researchers to get started, easy for experts to push the boundaries of what is possible by eliminating friction wherever possible, all while facilitating reproducibility in the process. The less friction in integration of various component of research pipelines, the better.\nAs part of this interest, I adopted the R programming language both as my main tool of research and the means to explore these ideas and put them into practice. As a result of this work, I published the following R packages so far:"
+    "text": "As a PhD student in ancient DNA genomics, I became quite interested in the process of designing intuitive, programmable interfaces for complex computational methods. I was a computer scientist convinced that computers should make our lives easier, yet work in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about how to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for building intuitive computational interfaces and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
   },
   {
     "objectID": "software.html#admixr",
     "href": "software.html#admixr",
     "title": "My software",
     "section": "admixr",
-    "text": "admixr\nadmixr was the first software I’ve published. I originally built it because I needed to run a huge number of statistical analyses using the ADMIXTOOLS software suite—a powerful set of programs, but quite cumbersome to use due to their reliance on pure unix terminal interfaces and ther need for setting up various configuration files to direct how analyses should be conducted. admixr solves this problem by providing a natural R interface for communication with ADMIXTOOLS programs in the background, automatically, from within R, and without any user intervention, and for presenting results in standard R data-frame objects.\n\nproject website: here\nGitHub link: here\npublication (peer-reviewed): here"
+    "text": "admixr\nadmixr was the first software I’ve published. I originally built it because I needed to run a large number of statistical analyses using the ADMIXTOOLS software suite—a powerful set of programs, but quite cumbersome to use due to their reliance on pure unix terminal interfaces and the need for setting up various configuration files to direct how analyses should be conducted. admixr solves this problem by providing a natural R interface for communication with ADMIXTOOLS programs in the background, automatically, from within R, and without any user intervention, and for presenting results in standard R data-frame objects.\n\nproject website\nGitHub repository\npublication\ncitations"
   },
   {
     "objectID": "software.html#slendr",
     "href": "software.html#slendr",
     "title": "My software",
     "section": "slendr",
-    "text": "slendr\nThe slendr R package started as a collection of scripts to simulate complex spatio-temporal genomic data on real geographic landscapes created as means to simulate data sets for benchmarking and testing inference methods in spatial population genetics. However, it soon became something much more general—an efficient, simple-to-use R simulation framework for population genetic simulations in general (spatial and non-spatial, forward or coalescent).\n\nproject website: here\nGitHub link: here\npublication (peer-reviewed): here"
+    "text": "slendr\nThe slendr R package started as a collection of scripts to simulate complex spatio-temporal genomic data on real geographic landscapes created as means to simulate data sets for benchmarking and testing inference methods in spatial population genetics. However, it soon became something much more general—an efficient, simple-to-use R simulation framework for population genetic simulations in general (spatial and non-spatial, forward or coalescent).\n\nproject website\nGitHub repository\npublication\ncitations"
   },
   {
     "objectID": "software.html#demografr",
     "href": "software.html#demografr",
     "title": "My software",
     "section": "demografr",
-    "text": "demografr\nAfter I built slendr, I realized that I have arrived at an extremely useful tool not just for population genetic simulations but also for simulation-based inference. After all, with any method like an Approximate Bayesian Computation (ABC), the most challenging aspect is having to write custom-tailored code for simulation demographic histories and computing summary statistics, for every single project. slendr solves both of these issues by providing a trivially easy interface for simulation and genomic data analysis—which is where demografr steps in and builds an inference framework around slendr. demografr currently supports ABC and parameter grid-based inference, with additional inference techniques in the pipeline.\n\nproject website: here\nGitHub link: here\npublication: in progress!"
+    "text": "demografr\nAfter I built slendr, I realized that I have (accidentally) arrived at an extremely useful tool not just for population genetic simulations but also for demographic inference. After all, with any method like an Approximate Bayesian Computation (ABC), the most challenging aspect is having to write custom-tailored code for simulation demographic histories and computing summary statistics, for every single project. slendr solves both of these issues by providing a trivially easy interface for simulation and genomic data analysis—which is where demografr steps in and builds an inference framework around slendr. demografr currently supports ABC and parameter grid-based inference, with additional inference techniques in the pipeline.\n\nproject website\nGitHub repository\npublication: in progress!"
   },
   {
     "objectID": "software.html#other-software",
@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Martin Petr",
     "section": "",
-    "text": "I am a researcher at the University of Copenhagen, Denmark.\nI work on methods for spatial analysis and simulation in genetics and ecology, aimed at unlocking new insights into the evolutionary histories of species across space and time.\nI also enjoy teaching and mentoring. My big focus is on designing intuitive interfaces to complex computational methods useful for both novice and expert users alike."
+    "text": "I am a researcher and programmer at the University of Copenhagen, Denmark.\nI work on methods for spatial inference and simulation in genetics and ecology, with the aim to gain new insights into the evolutionary histories of species across space and time.\nI also enjoy teaching and mentoring. An important focus of my work is on building intuitive interfaces to complex methods useful for novice and expert users alike."
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "My talks and presentations",
     "section": "",
-    "text": "I really enjoy talking about my work and about science in general. Here is a list of slides I used for my conference talks and invited lectures, as well as other resources. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.\nNote: This page is a new addition to my website. I’m currently working through the archive of materials for my past talks and plan to upload them shortly."
+    "text": "Here is a list of slides I used in my conference talks, invited lectures, university lectures, as well as other resources. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.\nNote: This page is a new addition to my website. I’m currently working through the archive of materials for my past talks and plan to upload them shortly."
   },
   {
     "objectID": "talks.html#invited-talks",
@@ -95,7 +95,7 @@
     "href": "publications.html#first-author-publications",
     "title": "My papers",
     "section": "First-author publications",
-    "text": "First-author publications\n\nslendr: a framework for spatio-temporal population genomic simulations on geographic landscapes [link] M Petr, BC Haller, PL Ralph, F Racimo PCI EvolBiol, 2022.03. 20.485041(2023)\nThe evolutionary history of Neanderthal and Denisovan Y chromosomes [link] M Petr, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur, P Semal, et al. Science 369 (6511), 1653-1656(2020)\nadmixr—R package for reproducible analyses using ADMIXTOOLS [link] M Petr, B Vernot, J Kelso Bioinformatics 35 (17), 3194-3195 (2019)\nLimits of long-term selection against Neandertal introgression [link] M Petr, S Pääbo, J Kelso, B Vernot PNAS 116 (5), 1639-1644 (2018)"
+    "text": "First-author publications\n\nslendr: a framework for spatio-temporal population genomic simulations on geographic landscapes [link] M Petr, BC Haller, PL Ralph, F Racimo Peer Community Journal, Volume 3, article no. e121(2023)\nThe evolutionary history of Neanderthal and Denisovan Y chromosomes [link] M Petr, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur, P Semal, et al. Science 369 (6511), 1653-1656(2020)\nadmixr—R package for reproducible analyses using ADMIXTOOLS [link] M Petr, B Vernot, J Kelso Bioinformatics 35 (17), 3194-3195 (2019)\nLimits of long-term selection against Neandertal introgression [link] M Petr, S Pääbo, J Kelso, B Vernot PNAS 116 (5), 1639-1644 (2018)"
   },
   {
     "objectID": "publications.html#co-authored-publications",
