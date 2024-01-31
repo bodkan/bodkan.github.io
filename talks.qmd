@@ -2,7 +2,7 @@
 title: "My talks and presentations"
 ---
 
-Here is a list of slides I used in my conference talks, invited lectures, as well as other resources. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.
+Here is a selection of slides I used in some of my conference talks or invited lectures. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.
 
 **Note:** This page is a new addition to my website. I'm currently working through the archive of materials for my past talks and plan to upload them shortly.
 
@@ -16,7 +16,7 @@ Here is a list of slides I used in my conference talks, invited lectures, as wel
 
 "_ISBA 2023_, Tartu, Estonia
 
-- [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2023-09-15 ISBA.pdf) (PDF)
+- [slides](https://github.com/bodkan/bodkan.github.io/main/talks/2023-09-15 ISBA.pdf) (PDF download)
 
 
 ### 2022
@@ -28,6 +28,11 @@ Here is a list of slides I used in my conference talks, invited lectures, as wel
 - [Youtube](https://www.youtube.com/watch?v=B2jrgnjNqC0) (talk)
 - [Youtube](https://www.youtube.com/watch?v=7fCkHfcCDtc) (discussion)
 
+#### **_slendr_: a framework for simulation and analysis of spatio-temporal population genomic data**
+
+"_Palaeo and Population genetics series_", Uppsala (webinar)
+
+- [slides](https://github.com/bodkan/bodkan.github.io/main/talks/2022-09-23 Uppsala seminar.pdf) (PDF download)
 
 ## Courses
 
