@@ -63,6 +63,32 @@ Here is a selection of slides I used in some of my conference talks or invited l
 
 -   [slides](https://github.com/bodkan/bodkan.github.io/tree/main/talks/2019-09-04%20Humpolec%20Y%20chromosomes.pdf) (PDF)
 
+## Conference posters
+
+### 2023
+
+#### Simple and efficient R toolkit for ABC inference in population genetics
+
+*"Symposium for Molecular Biology and Evolution (SMBE)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/tree/main/talks/2023-07-20%20SMBE%20poster.pdf) (PDF)
+
+### 2022
+
+#### *slendr*: a framework for simulation and analysis of spatio-temporal population genomic data
+
+*Probabilistic Modeling in Genomics (ProbGen)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/tree/main/talks/2022-03-28%20ProbGen%20poster.pdf) (PDF)
+
+### 2021
+
+#### **A framework for simulating spatio-temporal population genomic data on a real geographic landscape**
+
+*"Symposium for Molecular Biology and Evolution (SMBE)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/tree/main/talks/2021-05-31%20SMBE%20poster.pdf) (PDF)
+
 ## Interviews and podcasts
 
 ### 2020
