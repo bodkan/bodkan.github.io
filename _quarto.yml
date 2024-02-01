@@ -11,10 +11,10 @@ website:
       text: Home
     - href: software.qmd
       text: Software
-    - href: publications.qmd
-      text: Publications
     - href: talks.qmd
       text: Talks
+    - href: publications.qmd
+      text: Publications
 
 format:
   html:
