@@ -4,7 +4,7 @@ title: "Selected talks and presentations"
 
 Here is a selection of slides I used in some of my conference talks or invited lectures. If you attended my talk and missed a reference to a paper or a figure, you can track them down here.
 
-**Note**: If you want to download any slides, use the download button in the top-right corner on the GitHub page where each of the "PDF" links below takes you.
+**If you want to download any slides, use the download button in the top-right corner on the GitHub page where each of the "PDF" links below takes you.**
 
 ### 2023
 
@@ -40,6 +40,12 @@ Here is a selection of slides I used in some of my conference talks or invited l
 ## Conference presentations
 
 ### 2019
+
+#### **Limits of long-term selection against Neanderthal introgression**
+
+*"*Reconstructing the human past: using ancient and modern genomics*"*, Heidelberg, Germany
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/tree/main/talks/2019-04-01%20Heidelberg%20EMBO.pdf) (PDF)
 
 #### **The evolutionary history of Denisovan and Neanderthal Y chromosomes**
 
