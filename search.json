@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "My software",
     "section": "",
-    "text": "As a PhD student in ancient DNA genomics, I became quite interested in the process of designing intuitive, programmable interfaces for complex computational methods. I was a computer scientist convinced that computers should make our lives easier, yet work in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about how to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for building intuitive computational interfaces and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
+    "text": "As a PhD student in ancient DNA genomics, I became very interested in the process of designing intuitive, programmable interfaces for complex computational methods. I was a computer scientist convinced that computers should make our lives easier, yet work in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about how to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for building intuitive computational interfaces and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
   },
   {
     "objectID": "software.html#admixr",
@@ -44,35 +44,28 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "My talks and presentations",
+    "title": "Selected talks and presentations",
     "section": "",
-    "text": "Here is a selection of slides I used in some of my conference talks or invited lectures. If you attended some of my talks and missed a reference to a paper or a figure, you can track them down here.\nNote: This page is a new addition to my website. I’m currently working through the archive of materials for my past talks and plan to upload them shortly."
+    "text": "Here is a selection of slides I used in some of my conference talks or invited lectures. If you attended my talk and missed a reference to a paper or a figure, you can track them down here.\nNote: This page is a new addition to my website. I’m currently working through the archive of materials for my past talks and plan to upload them shortly."
   },
   {
-    "objectID": "talks.html#invited-talks",
-    "href": "talks.html#invited-talks",
-    "title": "My talks and presentations",
-    "section": "Invited talks",
-    "text": "Invited talks\n\n2023\n\nCharting ancient past through modern genomics\n“ISBA 2023, Tartu, Estonia\n\nslides (PDF download)\n\n\n\n\n2022\n\nNew stories of old DNA\n“Biological Thursdays” seminar series, Charles University in Prague, Czech Republic\n\nYoutube (talk, in Czech)\nYoutube (discussion, in Czech)\n\n\n\nslendr: a framework for simulation and analysis of spatio-temporal population genomic data\n“Palaeo and Population genetics series”, Uppsala, Sweden (online webinar)\n\nslides (PDF download)"
+    "objectID": "talks.html#invited-talks-and-keynotes",
+    "href": "talks.html#invited-talks-and-keynotes",
+    "title": "Selected talks and presentations",
+    "section": "Invited talks and keynotes",
+    "text": "Invited talks and keynotes\n\n2023\n\nCharting ancient past through modern genomics\n“ISBA 2023, Tartu, Estonia\n\nslides (PDF download)\n\n\n\n\n2022\n\nNew stories of old DNA\n“Biological Thursdays” seminar series, Charles University in Prague, Czech Republic\n\nYoutube (talk, in Czech)\nYoutube (discussion, in Czech)\n\n\n\nslendr: a framework for simulation and analysis of spatio-temporal population genomic data\n“Palaeo and Population genetics series”, Uppsala, Sweden (online webinar)\n\nslides (PDF download)\n\n\n\n\n2019\n\nNeanderthal ancestry in modern human genomes\n“Systems Biology Workshop”, La Trobe University, Melbourne, Australia\n\nslides (PDF download)"
   },
   {
-    "objectID": "talks.html#courses",
-    "href": "talks.html#courses",
-    "title": "My talks and presentations",
-    "section": "Courses",
-    "text": "Courses\n\n2022"
-  },
-  {
-    "objectID": "talks.html#selected-conference-presentations",
-    "href": "talks.html#selected-conference-presentations",
-    "title": "My talks and presentations",
-    "section": "Selected conference presentations",
-    "text": "Selected conference presentations"
+    "objectID": "talks.html#conference-presentations",
+    "href": "talks.html#conference-presentations",
+    "title": "Selected talks and presentations",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n2019\n\nThe evolutionary history of Denisovan and Neanderthal Y chromosomes\n“6th International Anthropological Congress of Dr. Ales Hrdlicka”, Humpolec, Czech Republic\n\nslides (PDF download)\n\n\n\nLimits of long-term selection against Neanderthal introgression\n“6th International Anthropological Congress of Dr. Ales Hrdlicka”, Humpolec, Czech Republic\n\nslides (PDF download)"
   },
   {
     "objectID": "talks.html#interviews-and-podcasts",
     "href": "talks.html#interviews-and-podcasts",
-    "title": "My talks and presentations",
+    "title": "Selected talks and presentations",
     "section": "Interviews and podcasts",
     "text": "Interviews and podcasts\n\n2020\n\npodcast interview\n\nYoutube"
   },
