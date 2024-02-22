@@ -17,8 +17,8 @@ about:
 
 I am a researcher and programmer at the University of Copenhagen, Denmark.
 
-I work on methods for spatial inference and simulation in genetics and ecology, with the aim to gain new insights into the evolutionary histories of species across space and time.
+I'm currently working on software methods for spatial inference and simulation to unlock new insights into the evolutionary histories of species across space and time.
 
-I also enjoy teaching and mentoring. An important focus of my work is on building intuitive interfaces to complex methods useful for novice and expert users alike.
+I also like teaching and mentoring. An important focus of my work is on designing interfaces to complex computational methods intuitive for novices and experts alike.
 
 <a rel="me" href="https://fosstodon.org/@bodkan"></a>

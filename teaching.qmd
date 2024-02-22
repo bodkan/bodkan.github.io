@@ -1,0 +1,17 @@
+---
+title: "My courses, lectures, workshopas"
+---
+
+Here are links to teaching resources for various lectures or workshops: slides, RMarkdown or Quarto source files, scripts, exercises.
+
+**Note:** This page is a work-in-progress. I'm currently going through my teaching archive and uploading or linking relevant information here. If a resource you'd like to see is missing, please get in touch! Thanks for understanding.
+
+## 2024
+
+### **"Archaic human introgression"**
+
+Lecture for the *Population genetics* course at the University of Copenhagen, February 28, 2024
+
+-   [slides]() (PDF download)
+-   [exercises and scripts](https://github.com/bodkan/ku-introgression2024) (GitHub)
+
