@@ -1,5 +1,5 @@
 ---
-title: "My courses, lectures, workshopas"
+title: "Courses, lectures, workshops"
 ---
 
 Here are links to teaching resources for various lectures or workshops: slides, RMarkdown or Quarto source files, scripts, exercises.
