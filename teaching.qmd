@@ -10,8 +10,37 @@ Here are links to teaching resources for various lectures or workshops: slides, 
 
 ### **"Archaic human introgression"**
 
-Lecture for the *Population genetics* course at the University of Copenhagen, February 28, 2024
+Lecture and exercises for the *Population genetics* course at the University of Copenhagen, February 2024
 
--   [slides]() (PDF download)
+<!-- -   [slides]() (PDF download) -->
 -   [exercises and scripts](https://github.com/bodkan/ku-introgression2024) (GitHub)
+
+## 2023
+
+### **"_slendr_ simulations"**
+
+Two day workshop at MPI EVA Leipzig, February 2023
+
+-   [slides](https://bodkan.quarto.pub/mpieva-slendr-2023)
+-   [handouts](https://bodkan.quarto.pub/mpieva-slendr-2023-onepage/)
+-   [source code](https://github.com/bodkan/mpieva-slendr-2023) (GitHub)
+
+
+### **"Simulations in population genetics"**
+
+Lecture and exercises for the [*Summer course in analysis of high throughput data for population genetics*](http://popgen.dk/popgen23/), University of Copenhagen, August 2023
+
+-   [slides](https://bodkan.quarto.pub/ku-popgen2023/)
+-   [handouts](https://bodkan.quarto.pub/ku-popgen2023-onepage/)
+-   [source code](https://github.com/bodkan/ku-popgen2023) (GitHub)
+
+## 2022
+
+### **"Simulations in population genetics"**
+
+Lecture and exercises for the [*Summer course in analysis of high throughput data for population genetics*](http://popgen.dk/popgen22/), University of Copenhagen, August 2022
+
+-   [slides](https://bodkan.quarto.pub/ku-popgen2022-simulations-in-population-genetics/)
+-   [handouts](https://bodkan.quarto.pub/ku-popgen2022-simulations-in-population-genetics-onepage/)
+-   [source code](https://github.com/bodkan/ku-popgen2022) (GitHub)
 
