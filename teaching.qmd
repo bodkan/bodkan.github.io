@@ -12,7 +12,7 @@ Here are links to teaching resources for various lectures or workshops: slides, 
 
 Lecture and exercises for the *Population genetics* course at the University of Copenhagen, February 2024
 
-<!-- -   [slides]() (PDF download) -->
+-   [slides](https://github.com/bodkan/ku-introgression2024/blob/main/2024-02-28%20lecture.pdf) (PDF download)
 -   [exercises and scripts](https://github.com/bodkan/ku-introgression2024) (GitHub)
 
 ## 2023
