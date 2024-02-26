@@ -44,3 +44,12 @@ Lecture and exercises for the [*Summer course in analysis of high throughput dat
 -   [handouts](https://bodkan.quarto.pub/ku-popgen2022-simulations-in-population-genetics-onepage/)
 -   [source code](https://github.com/bodkan/ku-popgen2022) (GitHub)
 
+
+## 2021
+
+### **"_admixr_ workshop"**
+
+Online workshop for graduate students of _ANTH 895: Methods and Research in Molecular Anthropology I_, Yale University, March 2021
+
+- [slides](https://github.com/bodkan/admixr-workshop/blob/main/slides.pdf) (PDF download)
+- [source code and examples](https://github.com/bodkan/admixr-workshop)
