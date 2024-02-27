@@ -9,8 +9,8 @@ about:
       url: https://github.com/bodkan
     - text: Email
       url: "mailto:contact@bodkan.net"
-    - text: Mastodon
-      url: https://fosstodon.org/@bodkan
+    # - text: Mastodon
+    #   url: https://fosstodon.org/@bodkan
     - text: Twitter
       url: https://twitter.com/bodkan_net
 ---
