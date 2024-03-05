@@ -2,7 +2,7 @@
 title: "Courses, lectures, workshops"
 ---
 
-Here are links to teaching resources for various lectures or workshops: slides, RMarkdown or Quarto source files, scripts, exercises.
+Here are links to teaching resources for various lectures or workshops I taught over time: slides, RMarkdown or Quarto source files, scripts, exercises.
 
 **Note:** This page is a work-in-progress. I'm currently going through my teaching archive and uploading or linking relevant information here. If a resource you'd like to see is missing, please get in touch! Thanks for understanding.
 

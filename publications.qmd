@@ -42,9 +42,9 @@ share a PDF of any article I authored or co-authored.
 
 -   **Exploring the effects of ecological parameters on the spatial
     structure of genetic tree sequences**
-    [\[link\]](https://www.biorxiv.org/content/10.1101/2023.03.27.534388v2.abstract)<br>
-    MK Ianni-Ravn, <u>M Petr</u>, F Racimo<br> ***bioRxiv***, 2023.03.
-    27.534388<br> (2023)<br>
+    [\[link\]](https://evolbiol.peercommunityin.org/articles/rec?id=655)<br>
+    MK Ianni-Ravn, <u>M Petr</u>, F Racimo<br> ***PCI Evolutionary
+    BIology***, doi: 10.1101/2023.03.27.534388<br> (2024)<br>
 
 -   **Modeling the spatiotemporal spread of beneficial alleles using
     ancient genomes**
