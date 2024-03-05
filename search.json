@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "My software",
     "section": "",
-    "text": "As a PhD student in ancient DNA genomics, I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
+    "text": "As a PhD student in ancient DNA genomics, I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist, I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
   },
   {
     "objectID": "software.html#admixr",
