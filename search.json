@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "My software",
     "section": "",
-    "text": "As a PhD student in ancient DNA genomics, I became very interested in the process of designing intuitive, programmable interfaces for complex computational methods. I was a computer scientist convinced that computers should make our lives easier, yet work in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about how to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for building intuitive computational interfaces and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
+    "text": "As a PhD student in ancient DNA genomics, I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
   },
   {
     "objectID": "software.html#admixr",
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Martin Petr",
     "section": "",
-    "text": "I am a researcher and programmer at the University of Copenhagen, Denmark.\nI’m currently working on software methods for spatial inference and simulation to unlock new insights into the evolutionary histories of species across space and time.\nI also like teaching and mentoring. An important focus of my work is on designing interfaces to complex computational methods intuitive for novices and experts alike."
+    "text": "I am a researcher and programmer at the University of Copenhagen, Denmark.\nI build software for spatial inference and simulation in population genetics, aiming to unlock new insights into the evolutionary histories of species across space and time.\nI also like teaching and mentoring. An important focus of my work is on designing interfaces to complex computational methods intuitive for novices and experts alike.\nOutside of work, I enjoy cycling, photography, and playing tabletop RPGs."
   },
   {
     "objectID": "teaching.html",
