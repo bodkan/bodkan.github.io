@@ -2,7 +2,7 @@
 title: "My software"
 ---
 
-As a PhD student in [ancient DNA genomics](https://www.eva.mpg.de/genetics/index/), I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.
+As a PhD student in [ancient DNA genomics](https://www.eva.mpg.de/genetics/index/), I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist, I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.
 
 Having learned the R programming language and becoming familiar with the ["tidyverse philosophy"](https://tidyverse.tidyverse.org/articles/manifesto.html) made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.
 
