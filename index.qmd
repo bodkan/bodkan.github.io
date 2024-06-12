@@ -1,0 +1,24 @@
+---
+title: "Martin Petr"
+about:
+  template: jolla
+  image: profile.png
+  image-width: 15em
+  links:
+    - text: GitHub
+      url: https://github.com/bodkan
+    - text: Email
+      url: "mailto:contact@bodkan.net"
+    - text: Mastodon
+      url: https://fosstodon.org/@bodkan
+    - text: Twitter
+      url: https://twitter.com/fleventy5
+---
+
+I’m a computer scientist with a PhD in evolutionary genomics of ancient humans.
+
+I build research software, teach population genetics, and mentor students at the University of Copenhagen. A big focus of my software development work is on designing interfaces to complex computational methods, intuitive for novices and experts alike.
+
+Outside research I enjoy hiking, cycling, photography, books, and all kinds of games.
+
+<a rel="me" href="https://fosstodon.org/@bodkan"></a>
