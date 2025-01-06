@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bodkan.net/software.html</loc>
-    <lastmod>2024-03-05T11:52:13.764Z</lastmod>
+    <lastmod>2024-06-12T10:15:15.565Z</lastmod>
   </url>
   <url>
-    <loc>https://bodkan.net/index.html</loc>
-    <lastmod>2024-06-12T10:12:30.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bodkan.net/teaching.html</loc>
-    <lastmod>2024-03-05T11:53:40.489Z</lastmod>
+    <loc>https://bodkan.net/students.html</loc>
+    <lastmod>2024-10-29T10:42:53.082Z</lastmod>
   </url>
   <url>
     <loc>https://bodkan.net/talks.html</loc>
-    <lastmod>2024-05-17T11:52:41.484Z</lastmod>
+    <lastmod>2024-06-12T10:15:15.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bodkan.net/teaching.html</loc>
+    <lastmod>2025-01-06T09:08:04.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bodkan.net/index.html</loc>
+    <lastmod>2025-01-06T09:08:04.792Z</lastmod>
   </url>
   <url>
     <loc>https://bodkan.net/publications.html</loc>
-    <lastmod>2024-03-05T11:32:47.477Z</lastmod>
+    <lastmod>2024-06-12T10:15:15.565Z</lastmod>
   </url>
 </urlset>

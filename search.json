@@ -35,44 +35,30 @@
     "text": "other software\nThe software above are all tools that I actively support and maintain, are used in on-going projects, and are (or soon will be) described in formal research publications. Other pieces of software I wrote and work-in-progress projects can be found on my GitHub profile."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Martin Petr",
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Student projects",
     "section": "",
-    "text": "I’m a computer scientist with a PhD in evolutionary genomics of ancient humans.\nI build research software, teach population genetics, and mentor students at the University of Copenhagen. A big focus of my software development work is on designing interfaces to complex computational methods, intuitive for novices and experts alike.\nOutside research I enjoy hiking, cycling, photography, books, and all kinds of games."
+    "text": "After finishing my PhD, I’ve not only had the opportunity to mentor students and supervise their projects but I also found great joy in helping young scientists learn how to do research and teach them how to push projects forwards.\nI’m constantly looking forward for new students to work either work on new projects!\nIf you’d like to work with me, please don’t hesitate to get in touch. I have many ideas ranging from more traditional aDNA population genetics projects, projects focused more to functional biology using archaic and modern human genomes, research software method development, to more unconventional projects involving the emerging large language models (LLM) and their application to wider, non-biological questions."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Courses, lectures, workshops",
-    "section": "",
-    "text": "Here are links to teaching resources for various lectures or workshops I taught over time: slides, RMarkdown or Quarto source files, scripts, exercises.\nNote: This page is a work-in-progress. I’m currently going through my teaching archive and uploading or linking relevant information here. If a resource you’d like to see is missing, please get in touch! Thanks for understanding."
-  },
-  {
-    "objectID": "teaching.html#section",
-    "href": "teaching.html#section",
-    "title": "Courses, lectures, workshops",
-    "section": "2024",
-    "text": "2024\n\n“Archaic human introgression”\nLecture and exercises for the Population genetics course at the University of Copenhagen, February 2024\n\nslides (PDF download)\nexercises and scripts (GitHub)"
-  },
-  {
-    "objectID": "teaching.html#section-1",
-    "href": "teaching.html#section-1",
-    "title": "Courses, lectures, workshops",
+    "objectID": "students.html#section",
+    "href": "students.html#section",
+    "title": "Student projects",
     "section": "2023",
     "text": "2023\n\n“slendr simulations”\nTwo day workshop at MPI EVA Leipzig, February 2023\n\nslides\nhandouts\nsource code (GitHub)\n\n\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2023\n\nslides\nhandouts\nsource code (GitHub)"
   },
   {
-    "objectID": "teaching.html#section-2",
-    "href": "teaching.html#section-2",
-    "title": "Courses, lectures, workshops",
+    "objectID": "students.html#section-1",
+    "href": "students.html#section-1",
+    "title": "Student projects",
     "section": "2022",
     "text": "2022\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2022\n\nslides\nhandouts\nsource code (GitHub)"
   },
   {
-    "objectID": "teaching.html#section-3",
-    "href": "teaching.html#section-3",
-    "title": "Courses, lectures, workshops",
+    "objectID": "students.html#section-2",
+    "href": "students.html#section-2",
+    "title": "Student projects",
     "section": "2021",
     "text": "2021\n\n“admixr workshop”\nOnline workshop for graduate students of ANTH 895: Methods and Research in Molecular Anthropology I, Yale University, March 2021\n\nslides (PDF download)\nsource code and examples"
   },
@@ -110,6 +96,48 @@
     "title": "Selected talks and presentations",
     "section": "Interviews and podcasts",
     "text": "Interviews and podcasts\n\n2020\n\npodcast interview\n\nYoutube"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Courses, lectures, workshops",
+    "section": "",
+    "text": "Here are links to teaching resources for various lectures or workshops I taught over time: slides, RMarkdown or Quarto source files, scripts, exercises.\nNote: This page is a work-in-progress. I’m currently going through my teaching archive and uploading or linking relevant information here. If a resource you’d like to see is missing, please get in touch! Thanks for understanding."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Courses, lectures, workshops",
+    "section": "2024",
+    "text": "2024\n\n“Archaic human introgression”\nLecture and exercises for the Population genetics course at the University of Copenhagen, February 2024\n\nslides (PDF download)\nexercises and scripts (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Courses, lectures, workshops",
+    "section": "2023",
+    "text": "2023\n\n“slendr simulations”\nTwo day workshop at MPI EVA Leipzig, February 2023\n\nsource code, slides, exercises (GitHub)\n\n\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2023\n\nsource code, slides, exercises (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-2",
+    "href": "teaching.html#section-2",
+    "title": "Courses, lectures, workshops",
+    "section": "2022",
+    "text": "2022\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2022\n\nsource code, slides, exercises (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-3",
+    "href": "teaching.html#section-3",
+    "title": "Courses, lectures, workshops",
+    "section": "2021",
+    "text": "2021\n\n“admixr workshop”\nOnline workshop for graduate students of ANTH 895: Methods and Research in Molecular Anthropology I, Yale University, March 2021\n\nslides (PDF download)\nsource code and examples"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Petr",
+    "section": "",
+    "text": "I’m a computer scientist with a PhD in evolutionary genomics of ancient humans.\nI build research software, teach population genetics, and mentor students at the University of Copenhagen. A big focus of my software development work is on designing interfaces to complex computational methods, intuitive for novices and experts alike.\nOutside research I enjoy hiking, cycling, photography, books, and all kinds of games."
   },
   {
     "objectID": "publications.html",
