@@ -9,10 +9,8 @@ about:
       url: https://github.com/bodkan
     - text: Email
       url: "mailto:contact@bodkan.net"
-    - text: Mastodon
-      url: https://fosstodon.org/@bodkan
-    - text: Twitter
-      url: https://twitter.com/fleventy5
+    - text: Bluesky
+      url: https://bsky.app/profile/bodkan.bsky.social
 ---
 
 I’m a computer scientist with a PhD in evolutionary genomics of ancient humans.
