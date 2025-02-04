@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "My software",
+    "section": "",
+    "text": "As a PhD student in ancient DNA genomics, I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist, I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.\nHaving learned the R programming language and becoming familiar with the “tidyverse philosophy” made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.\nAs a result of this work over the years, I published the following R packages:"
+  },
+  {
+    "objectID": "software.html#admixr",
+    "href": "software.html#admixr",
+    "title": "My software",
+    "section": "admixr",
+    "text": "admixr\nadmixr was the first software I’ve published. I originally built it because I needed to run a large number of statistical analyses using the ADMIXTOOLS software suite—a powerful set of programs, but quite cumbersome to use due to their reliance on pure unix terminal interfaces and the need for setting up various configuration files to direct how analyses should be conducted. admixr solves this problem by providing a natural R interface for communication with ADMIXTOOLS programs in the background, automatically, from within R, and without any user intervention, and for presenting results in standard R data-frame objects.\n\nproject website\nGitHub repository\npublication\ncitations"
+  },
+  {
+    "objectID": "software.html#slendr",
+    "href": "software.html#slendr",
+    "title": "My software",
+    "section": "slendr",
+    "text": "slendr\nThe slendr R package started as a collection of scripts to simulate complex spatio-temporal genomic data on real geographic landscapes created as means to simulate data sets for benchmarking and testing inference methods in spatial population genetics. However, it soon became something much more general—an efficient, simple-to-use R simulation framework for population genetic simulations in general (spatial and non-spatial, forward or coalescent).\n\nproject website\nGitHub repository\npublication\ncitations"
+  },
+  {
+    "objectID": "software.html#demografr",
+    "href": "software.html#demografr",
+    "title": "My software",
+    "section": "demografr",
+    "text": "demografr\nAfter I built slendr, I realized that I have (accidentally) arrived at an extremely useful tool not just for population genetic simulations but also for demographic inference. After all, with any method like an Approximate Bayesian Computation (ABC), the most challenging aspect is having to write custom-tailored code for simulation demographic histories and computing summary statistics, for every single project. slendr solves both of these issues by providing a trivially easy interface for simulation and genomic data analysis—which is where demografr steps in and builds an inference framework around slendr. demografr currently supports ABC and parameter grid-based inference, with additional inference techniques in the pipeline.\n\nproject website\nGitHub repository\npublication: in progress!"
+  },
+  {
+    "objectID": "software.html#other-software",
+    "href": "software.html#other-software",
+    "title": "My software",
+    "section": "other software",
+    "text": "other software\nThe software above are all tools that I actively support and maintain, are used in on-going projects, and are (or soon will be) described in formal research publications. Other pieces of software I wrote and work-in-progress projects can be found on my GitHub profile."
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Student projects",
+    "section": "",
+    "text": "After finishing my PhD, I’ve not only had the opportunity to mentor students and supervise their projects but I also found great joy in helping young scientists learn how to do research and teach them how to push projects forwards.\nI’m constantly looking forward for new students to work either work on new projects!\nIf you’d like to work with me, please don’t hesitate to get in touch. I have many ideas ranging from more traditional aDNA population genetics projects, projects focused more to functional biology using archaic and modern human genomes, research software method development, to more unconventional projects involving the emerging large language models (LLM) and their application to wider, non-biological questions."
+  },
+  {
+    "objectID": "students.html#section",
+    "href": "students.html#section",
+    "title": "Student projects",
+    "section": "2023",
+    "text": "2023\n\n“slendr simulations”\nTwo day workshop at MPI EVA Leipzig, February 2023\n\nslides\nhandouts\nsource code (GitHub)\n\n\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2023\n\nslides\nhandouts\nsource code (GitHub)"
+  },
+  {
+    "objectID": "students.html#section-1",
+    "href": "students.html#section-1",
+    "title": "Student projects",
+    "section": "2022",
+    "text": "2022\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2022\n\nslides\nhandouts\nsource code (GitHub)"
+  },
+  {
+    "objectID": "students.html#section-2",
+    "href": "students.html#section-2",
+    "title": "Student projects",
+    "section": "2021",
+    "text": "2021\n\n“admixr workshop”\nOnline workshop for graduate students of ANTH 895: Methods and Research in Molecular Anthropology I, Yale University, March 2021\n\nslides (PDF download)\nsource code and examples"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Selected talks and presentations",
+    "section": "",
+    "text": "Here is a selection of slides I used in some of my conference talks, invited lectures, and conference posters. If you attended my talk and missed a reference to a paper or a figure, you can track them down here.\nIf you want to download any slides, use the download button in the top-right corner on the GitHub page where each of the “PDF” links below takes you."
+  },
+  {
+    "objectID": "talks.html#invited-talks-and-keynotes",
+    "href": "talks.html#invited-talks-and-keynotes",
+    "title": "Selected talks and presentations",
+    "section": "Invited talks and keynotes",
+    "text": "Invited talks and keynotes\n\n2024\n\n“R and SLiM walk into a bar…\n“SLiM workshop, organized by Ben Haller at the University of Copenhagen\n\nslides (PDF download)\n\n\n\n\n2023\n\nCharting ancient past through modern genomics (keynote)\n“ISBA 2023, Tartu, Estonia\n\nslides (PDF download)\n\n\n\n\n2022\n\nNew stories of old DNA\n“Biological Thursdays” seminar series, Charles University in Prague, Czech Republic\n\nYoutube (talk, in Czech)\nYoutube (discussion, in Czech)\n\n\n\nslendr: a framework for simulation and analysis of spatio-temporal population genomic data\n“Palaeo and Population genetics series”, Uppsala, Sweden (online webinar)\n\nslides (PDF)\n\n\n\n\n2020\n\nThe Evolutionary History of Neanderthal and Denisovan Y chromosomes\n“Evolutionary Genetics of Humans and Other Primates” reading group, University of Utah, USA (online seminar)\n\nslides (PDF)\n\n\n\n\n2019\n\nNeanderthal ancestry in modern human genomes (keynote)\n“Systems Biology Workshop”, La Trobe University, Melbourne, Australia\n\nslides (PDF)"
+  },
+  {
+    "objectID": "talks.html#conference-presentations",
+    "href": "talks.html#conference-presentations",
+    "title": "Selected talks and presentations",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n2019\n\nLimits of long-term selection against Neanderthal introgression\n“Reconstructing the human past: using ancient and modern genomics”, Heidelberg, Germany\n\nslides (PDF)\n\n\n\nThe evolutionary history of Denisovan and Neanderthal Y chromosomes\n“6th International Anthropological Congress of Dr. Ales Hrdlicka”, Humpolec, Czech Republic\n\nslides (PDF)"
+  },
+  {
+    "objectID": "talks.html#conference-posters",
+    "href": "talks.html#conference-posters",
+    "title": "Selected talks and presentations",
+    "section": "Conference posters",
+    "text": "Conference posters\n\n2023\n\nSimple and efficient R toolkit for ABC inference in population genetics\n“Symposium for Molecular Biology and Evolution (SMBE)”\n\nposter (PDF)\n\n\n\n\n2022\n\nslendr: a framework for simulation and analysis of spatio-temporal population genomic data\nProbabilistic Modeling in Genomics (ProbGen)“\n\nposter (PDF)\n\n\n\n\n2021\n\nA framework for simulating spatio-temporal population genomic data on a real geographic landscape\n“Symposium for Molecular Biology and Evolution (SMBE)”\n\nposter (PDF)"
+  },
+  {
+    "objectID": "talks.html#interviews-and-podcasts",
+    "href": "talks.html#interviews-and-podcasts",
+    "title": "Selected talks and presentations",
+    "section": "Interviews and podcasts",
+    "text": "Interviews and podcasts\n\n2020\n\npodcast interview\n\nYoutube"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Courses, lectures, workshops",
+    "section": "",
+    "text": "Here are links to teaching resources for various lectures or workshops I taught over time: slides, RMarkdown or Quarto source files, scripts, exercises.\nNote: This page is a work-in-progress. I’m currently going through my teaching archive and uploading or linking relevant information here. If a resource you’d like to see is missing, please get in touch! Thanks for understanding."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Courses, lectures, workshops",
+    "section": "2025",
+    "text": "2025\n\n“Building intuition into population genetic fundamentals and inference”\nPractical activity session the Workshop on Population and Speciation Genomics in Český Krumlov, January 2025\n\nslides and practical exercises (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Courses, lectures, workshops",
+    "section": "2024",
+    "text": "2024\n\n“Archaic human introgression”\nLecture and exercises for the Population genetics course at the University of Copenhagen, February 2024\n\nslides (PDF download)\nexercises and scripts (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-2",
+    "href": "teaching.html#section-2",
+    "title": "Courses, lectures, workshops",
+    "section": "2023",
+    "text": "2023\n\n“slendr simulations”\nTwo day workshop at MPI EVA Leipzig, February 2023\n\nsource code, slides, exercises (GitHub)\n\n\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2023\n\nsource code, slides, exercises (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-3",
+    "href": "teaching.html#section-3",
+    "title": "Courses, lectures, workshops",
+    "section": "2022",
+    "text": "2022\n\n“Simulations in population genetics”\nLecture and exercises for the Summer course in analysis of high throughput data for population genetics, University of Copenhagen, August 2022\n\nsource code, slides, exercises (GitHub)"
+  },
+  {
+    "objectID": "teaching.html#section-4",
+    "href": "teaching.html#section-4",
+    "title": "Courses, lectures, workshops",
+    "section": "2021",
+    "text": "2021\n\n“admixr workshop”\nOnline workshop for graduate students of ANTH 895: Methods and Research in Molecular Anthropology I, Yale University, March 2021\n\nslides (PDF download)\nsource code and examples"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Petr",
+    "section": "",
+    "text": "I’m an assistant professor at the University of Copenhagen, specializing in evolutionary and population genomics.\nDuring my PhD, I studied the evolutionary histories of Neanderthals, Denisovans and anatomically modern humans using ancient DNA. As a postdoc, I focused on building software for spatiotemporal genomic simulations and inference.\nMy current research applies the genomic methods I have developed to explore new questions about human population dynamics over millennia. Additionally, I have several ongoing projects investigating contemporary societal dynamics on a much broader scale, extending beyond genomics alone.\nOutside of research, I love climbing, hiking, yoga, books, and all kinds of games. I’m also an absolutely massive Star Trek fan."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "My papers",
+    "section": "",
+    "text": "You can find an up-to-date list of my research articles also on my Google Scholar profile. If you have trouble accessing the full-text version of any of the articles below, please get in touch. I’m happy to share a PDF of any article I authored or co-authored."
+  },
+  {
+    "objectID": "publications.html#first-author-publications",
+    "href": "publications.html#first-author-publications",
+    "title": "My papers",
+    "section": "First-author publications",
+    "text": "First-author publications\n\nslendr: a framework for spatio-temporal population genomic simulations on geographic landscapes [link] M Petr, BC Haller, PL Ralph, F Racimo Peer Community Journal, Volume 3, article no. e121(2023)\nThe evolutionary history of Neanderthal and Denisovan Y chromosomes [link] M Petr, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur, P Semal, et al. Science 369 (6511), 1653-1656(2020)\nadmixr—R package for reproducible analyses using ADMIXTOOLS [link] M Petr, B Vernot, J Kelso Bioinformatics 35 (17), 3194-3195 (2019)\nLimits of long-term selection against Neandertal introgression [link] M Petr, S Pääbo, J Kelso, B Vernot PNAS 116 (5), 1639-1644 (2018)"
+  },
+  {
+    "objectID": "publications.html#co-authored-publications",
+    "href": "publications.html#co-authored-publications",
+    "title": "My papers",
+    "section": "Co-authored publications",
+    "text": "Co-authored publications\n\nElucidating the sustainability of 700 y of Inuvialuit beluga whale hunting in the Mackenzie River Delta, Northwest Territories, Canada [link] M Skovrind, M Louis, SH Fergusson, DM Glazov, DI Litovka, L Losetto, IG Meschersky, MM Miller, M Petr, et al.  PNAS, doi: 10.1073/pnas.2405993121 (2024)\n\n\n\nExploring the effects of ecological parameters on the spatial structure of genetic tree sequences [link] MK Ianni-Ravn, M Petr, F Racimo PCI Evolutionary BIology, doi: 10.1101/2023.03.27.534388 (2024)\nModeling the spatiotemporal spread of beneficial alleles using ancient genomes [link] RA Muktupavela, M Petr, L Ségurel, et al. Elife 11, e73767 (2022)\nUnearthing Neanderthal population history using nuclear and mitochondrial DNA from cave sediments [link] B Vernot, EI Zavala, A Gómez-Olivencia, Z Jacobs, V Slon, F Mafessoni, F Romagné, A Pearson, M Petr, et al. Science 372 (6542), eabf1667 (2021)\nReconstructing the genetic history of late Neanderthals [link] M Hajdinjak, Q Fu, A Hübner, M Petr, et al. Nature 555 (7698), 652-656 (2018)\nThe genetic history of ice age Europe [link] Q Fu, C Posth, M Hajdinjak, M Petr, et al. Nature 534 (7606), 200-205 (2016)"
+  },
+  {
+    "objectID": "publications.html#outreach-articles",
+    "href": "publications.html#outreach-articles",
+    "title": "My papers",
+    "section": "Outreach articles",
+    "text": "Outreach articles\n\nThe Next Piece of Our Big Genetic Puzzle [link] M Petr Anthropology News issue on Genetics (2021)"
+  }
+]
