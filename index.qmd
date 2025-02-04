@@ -1,0 +1,32 @@
+---
+title: "Martin Petr"
+about:
+  template: trestles
+  image: profile.png
+  image-width: 15em
+  links:
+    - text: GitHub
+      url: https://github.com/bodkan
+    - text: Email
+      url: "mailto:contact@bodkan.net"
+    - text: Bluesky
+      url: https://bsky.app/profile/bodkan.bsky.social
+---
+
+I’m an assistant professor at the University of Copenhagen, specializing in
+evolutionary and population genomics.
+
+During my PhD, I studied the evolutionary histories of Neanderthals,
+Denisovans and anatomically modern humans using ancient DNA. As
+a postdoc, I focused on building software for spatiotemporal genomic
+simulations and inference.
+
+My current research applies the genomic methods I have developed to explore
+new questions about human population dynamics over millennia. Additionally,
+I have several ongoing projects investigating contemporary societal dynamics
+on a much broader scale, extending beyond genomics alone.
+
+Outside of research, I love climbing, hiking, yoga, books, and all kinds of
+games. I’m also an absolutely massive Star Trek fan.
+
+<a rel="me" href="https://fosstodon.org/@bodkan"></a>

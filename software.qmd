@@ -1,0 +1,39 @@
+---
+title: "My software"
+---
+
+As a PhD student in [ancient DNA genomics](https://www.eva.mpg.de/genetics/index/), I became interested in designing intuitive, programmable interfaces for complex computational methods. As a computer scientist, I wanted to think that computers should make our lives easier, yet doing projects in genomics often involved writing dozens of error-prone, poorly reproducible scripts gluing together disparate pieces of software for data processing or analysis.
+
+Having learned the R programming language and becoming familiar with the ["tidyverse philosophy"](https://tidyverse.tidyverse.org/articles/manifesto.html) made me think about ways to make my corner of science more reproducible, more fun, and easier to do. I adopted R as a useful framework for achieving this and began building tools of my own.
+
+As a result of this work over the years, I published the following R packages:
+
+## [*admixr*](https://bodkan.net/admixr)
+
+*admixr* was the first software I've published. I originally built it because I needed to run a large number of statistical analyses using the *ADMIXTOOLS* software suite—a powerful set of programs, but quite cumbersome to use due to their reliance on pure unix terminal interfaces and the need for setting up various configuration files to direct how analyses should be conducted. *admixr* solves this problem by providing a natural R interface for communication with *ADMIXTOOLS* programs in the background, automatically, from within R, and without any user intervention, and for presenting results in standard R data-frame objects.
+
+-   [project website](https://bodkan.net/admixr)
+-   [GitHub repository](https://github.com/bodkan/admixr)
+-   [publication](https://academic.oup.com/bioinformatics/article/35/17/3194/5298728)
+-   [citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13286994334855947290)
+
+## [*slendr*](https://bodkan.net/slendr)
+
+The *slendr* R package started as a collection of scripts to simulate complex spatio-temporal genomic data on real geographic landscapes created as means to simulate data sets for benchmarking and testing inference methods in spatial population genetics. However, it soon became something much more general—an efficient, simple-to-use R simulation framework for population genetic simulations in general (spatial and non-spatial, forward or coalescent).
+
+-   [project website](https://bodkan.net/slendr)
+-   [GitHub repository](https://github.com/bodkan/slendr)
+-   [publication](https://peercommunityjournal.org/articles/10.24072/pcjournal.354/)
+-   [citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13505624823016684574)
+
+## [*demografr*](https://bodkan.net/demografr)
+
+After I built *slendr*, I realized that I have (accidentally) arrived at an extremely useful tool not just for population genetic simulations but also for demographic inference. After all, with any method like an Approximate Bayesian Computation (ABC), the most challenging aspect is having to write custom-tailored code for simulation demographic histories and computing summary statistics, *for every single project*. *slendr* solves both of these issues by providing a trivially easy interface for simulation and genomic data analysis—which is where *demografr* steps in and builds an inference framework around *slendr*. *demografr* currently supports ABC and parameter grid-based inference, with additional inference techniques in the pipeline.
+
+-   [project website](https://bodkan.net/demografr)
+-   [GitHub repository](https://github.com/bodkan/demografr)
+-   publication: *in progress!*
+
+## other software
+
+The software above are all tools that I actively support and maintain, are used in on-going projects, and are (or soon will be) described in formal research publications. Other pieces of software I wrote and work-in-progress projects can be found on my [GitHub](https://github.com/bodkan) profile.

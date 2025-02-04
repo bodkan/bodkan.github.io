@@ -1,0 +1,106 @@
+---
+title: "Selected talks and presentations"
+---
+
+Here is a selection of slides I used in some of my conference talks, invited lectures, and conference posters. If you attended my talk and missed a reference to a paper or a figure, you can track them down here.
+
+**If you want to download any slides, use the download button in the top-right corner on the GitHub page where each of the "PDF" links below takes you.**
+
+## Invited talks and keynotes
+
+### 2024
+
+#### **"R and SLiM walk into a bar...**
+
+"*SLiM workshop*, [organized by Ben Haller](http://benhaller.com/workshops/workshops.html) at the University of Copenhagen
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2024-05-17%20SLiM%20workshop.pdf) (PDF download)
+
+### 2023
+
+#### **Charting ancient past through modern genomics** (keynote)
+
+"*ISBA 2023*, Tartu, Estonia
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2023-09-15%20ISBA.pdf) (PDF download)
+
+### 2022
+
+#### **New stories of old DNA**
+
+"*Biological Thursdays*" seminar series, Charles University in Prague, Czech Republic
+
+-   [Youtube](https://www.youtube.com/watch?v=B2jrgnjNqC0) (talk, **in Czech**)
+-   [Youtube](https://www.youtube.com/watch?v=7fCkHfcCDtc) (discussion, **in Czech**)
+
+#### ***slendr*****: a framework for simulation and analysis of spatio-temporal population genomic data**
+
+"*Palaeo and Population genetics series*", Uppsala, Sweden **(online webinar)**
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2022-09-23%20Uppsala%20seminar.pdf) (PDF)
+
+### 2020
+
+#### **The Evolutionary History of Neanderthal and Denisovan Y chromosomes**
+
+*"Evolutionary Genetics of Humans and Other Primates"* reading group, University of Utah, USA **(online seminar)**
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2020-12-01%20Utah%20Y%20seminar.pdf) (PDF)
+
+### 2019
+
+#### **Neanderthal ancestry in modern human genomes** (keynote)
+
+*"Systems Biology Workshop"*, La Trobe University, Melbourne, Australia
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2019-05-15%20Melbourne%20workshop.pdf) (PDF)
+
+## Conference presentations
+
+### 2019
+
+#### **Limits of long-term selection against Neanderthal introgression**
+
+*"*Reconstructing the human past: using ancient and modern genomics*"*, Heidelberg, Germany
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2019-04-01%20Heidelberg%20EMBO.pdf) (PDF)
+
+#### **The evolutionary history of Denisovan and Neanderthal Y chromosomes**
+
+*"6th International Anthropological Congress of Dr. Ales Hrdlicka"*, Humpolec, Czech Republic
+
+-   [slides](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2019-09-04%20Humpolec%20Y%20chromosomes.pdf) (PDF)
+
+## Conference posters
+
+### 2023
+
+#### Simple and efficient R toolkit for ABC inference in population genetics
+
+*"Symposium for Molecular Biology and Evolution (SMBE)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2023-07-20%20SMBE%20poster.pdf) (PDF)
+
+### 2022
+
+#### *slendr*: a framework for simulation and analysis of spatio-temporal population genomic data
+
+*Probabilistic Modeling in Genomics (ProbGen)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2022-03-28%20ProbGen%20poster.pdf) (PDF)
+
+### 2021
+
+#### **A framework for simulating spatio-temporal population genomic data on a real geographic landscape**
+
+*"Symposium for Molecular Biology and Evolution (SMBE)"*
+
+-   [poster](https://github.com/bodkan/bodkan.github.io/blob/main/talks/2021-05-31%20SMBE%20poster.pdf) (PDF)
+
+## Interviews and podcasts
+
+### 2020
+
+#### podcast interview
+
+-   [Youtube](https://www.youtube.com/watch?v=Bq1RI3AbIso)

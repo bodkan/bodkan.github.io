@@ -1,0 +1,86 @@
+---
+title: "My papers"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You can find an up-to-date list of my research articles also on my
+[Google Scholar
+profile](https://scholar.google.com/citations?user=h9-xAdAAAAAJ). If you
+have trouble accessing the full-text version of any of the articles
+below, please [get in touch](mailto:contact@bodkan.net). I'm happy to
+share a PDF of any article I authored or co-authored.
+
+## First-author publications
+
+-   ***slendr*****: a framework for spatio-temporal population genomic
+    simulations on geographic landscapes**
+    [\[link\]](https://peercommunityjournal.org/articles/10.24072/pcjournal.354/)<br>
+    <u>M Petr</u>, BC Haller, PL Ralph, F Racimo<br> ***Peer Community
+    Journal***, Volume 3, article no. e121<br>(2023)<br>
+
+-   **The evolutionary history of Neanderthal and Denisovan Y
+    chromosomes**
+    [\[link\]](https://www.science.org/doi/full/10.1126/science.abb6460)<br>
+    <u>M Petr</u>, M Hajdinjak, Q Fu, E Essel, H Rougier, I Crevecoeur,
+    P Semal, *et al.*<br> ***Science*** 369 (6511),
+    1653-1656<br>(2020)<br>
+
+-   ***admixr*****—R package for reproducible analyses using
+    ADMIXTOOLS**
+    [\[link\]](https://academic.oup.com/bioinformatics/article/35/17/3194/5298728)<br>
+    <u>M Petr</u>, B Vernot, J Kelso<br> ***Bioinformatics*** 35 (17),
+    3194-3195<br> (2019)<br>
+
+-   **Limits of long-term selection against Neandertal introgression**
+    [\[link\]](https://www.pnas.org/doi/full/10.1073/pnas.1814338116)<br>
+    <u>M Petr</u>, S Pääbo, J Kelso, B Vernot<br> ***PNAS*** 116 (5),
+    1639-1644<br> (2018)<br>
+
+## Co-authored publications
+
+-   **Elucidating the sustainability of 700 y of Inuvialuit beluga whale
+    hunting in the Mackenzie River Delta, Northwest Territories,
+    Canada**
+    [\[link\]](https://www.pnas.org/doi/10.1073/pnas.2405993121)<br> M
+    Skovrind, M Louis, SH Fergusson, DM Glazov, DI Litovka, L Losetto,
+    IG Meschersky, MM Miller, <u>M Petr</u>, *et al.* <br> ***PNAS***,
+    doi: 10.1073/pnas.2405993121<br> (2024)<br>
+
+<!-- -->
+
+-   **Exploring the effects of ecological parameters on the spatial
+    structure of genetic tree sequences**
+    [\[link\]](https://evolbiol.peercommunityin.org/articles/rec?id=655)<br>
+    MK Ianni-Ravn, <u>M Petr</u>, F Racimo<br> ***PCI Evolutionary
+    BIology***, doi: 10.1101/2023.03.27.534388<br> (2024)<br>
+
+-   **Modeling the spatiotemporal spread of beneficial alleles using
+    ancient genomes**
+    [\[link\]](https://elifesciences.org/articles/73767)<br> RA
+    Muktupavela, <u>M Petr</u>, L Ségurel, *et al.*<br> ***Elife*** 11,
+    e73767<br> (2022)<br>
+
+-   **Unearthing Neanderthal population history using nuclear and
+    mitochondrial DNA from cave sediments**
+    [\[link\]](https://www.science.org/doi/full/10.1126/science.abf1667)<br>
+    B Vernot, EI Zavala, A Gómez-Olivencia, Z Jacobs, V Slon, F
+    Mafessoni, F Romagné, A Pearson, <u>M Petr</u>, *et al.*<br>
+    ***Science*** 372 (6542), eabf1667<br> (2021)<br>
+
+-   **Reconstructing the genetic history of late Neanderthals**
+    [\[link\]](https://www.nature.com/articles/nature26151)<br> M
+    Hajdinjak, Q Fu, A Hübner, <u>M Petr</u>, *et al.*<br> ***Nature***
+    555 (7698), 652-656<br> (2018)<br>
+
+-   **The genetic history of ice age Europe**
+    [\[link\]](https://www.nature.com/articles/nature17993)<br> Q Fu, C
+    Posth, M Hajdinjak, <u>M Petr</u>, *et al.*<br> ***Nature*** 534
+    (7606), 200-205<br> (2016)<br>
+
+## Outreach articles
+
+-   **The Next Piece of Our Big Genetic Puzzle**
+    [\[link\]](https://www.anthropology-news.org/articles/the-next-piece-of-our-big-genetic-puzzle/)<br>
+    <u>M Petr</u><br> Anthropology News issue on Genetics<br> (2021)<br>
